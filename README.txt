@@ -1,4 +1,4 @@
-Quanser HIL SDK 2020 (4.0.3032)
+Quanser HIL SDK 2021 (4.1.3390)
 -----------------------------------
 
 The Quanser HIL SDK for the Raspbian operating system running on a Raspberry Pi™ 3 board. The Quanser Hardware-in-the-loop (HIL) SDK, also known as the Quanser HIL SDK, provides device drivers and a set of C functions (API) for accessing Quanser hardware (devices and data acquisition cards).  
@@ -7,6 +7,7 @@ The Quanser HIL SDK for the Raspbian operating system running on a Raspberry Pi 
 - Quanser QUBE Servo 2 - USB 
 - Quanser Aero USB 
 - Quanser Q2-USB (normal mode only)
+- Quanser QArm
 
 To install the Quanser HIL SDK on Linux Raspbian:
 - Copy all the files in the desired target directory onto the target.
@@ -34,4 +35,4 @@ To uninstall the Quanser HIL SDK on Linux Raspbian:
 THIS IS BETA SOFTWARE. IF YOU ARE USING THIS SOFTWARE, WE WOULD APPRECIATE ANY FEEDBACK.
 
 
-The full version of this product is 4.0.3032. The build date was 2020/4/14.
+The full version of this product is 4.1.3390. The build date was 2021/4/7.
