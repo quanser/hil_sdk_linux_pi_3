@@ -1,9 +1,9 @@
 Quanser HIL SDK 2022 (4.2.3778)
 -----------------------------------
 
-The Quanser HIL SDK for the Raspbian operating system running on a Raspberry Pi™ 3 board. The Quanser Hardware-in-the-loop (HIL) SDK, also known as the Quanser HIL SDK, provides device drivers and a set of C functions (API) for accessing Quanser hardware (devices and data acquisition cards).  
+The Quanser HIL SDK for the 32-bit Raspbian operating system running on a Raspberry Pi™ 3 or Raspberry Pi 4 board. The Quanser Hardware-in-the-loop (HIL) SDK, also known as the Quanser HIL SDK, provides device drivers and a set of C functions (API) for accessing Quanser hardware (devices and data acquisition cards).  
 
-The Quanser HIL SDK for the Raspbian operating system running on a Raspberry Pi 3 provides access to the following devices:
+The Quanser HIL SDK for the 32-bit Raspbian operating system running on a Raspberry Pi 3 or Raspberry Pi 4 provides access to the following devices:
 - Quanser QUBE Servo 2 - USB 
 - Quanser Q2-USB (normal mode only)
 - Quanser AERO
