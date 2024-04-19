@@ -1,6 +1,8 @@
-[OBSOLETE] Quanser HIL SDK 2022 (4.2.3778)
-------------------------------------------
+# THIS REPOSITORY IS NO LONGER MAINTAINED
+Please refer to the [Quanser SDK for Linux](https://github.com/quanser/quanser_sdk_linux) repository for Quanser's latest and up-to-date functionality under various Linux operating systems. 
 
+
+# [OBSOLETE] 
 The Quanser HIL SDK for the 32-bit Raspbian operating system running on a Raspberry Pi™ 3 board. The Quanser Hardware-in-the-loop (HIL) SDK, also known as the Quanser HIL SDK, provides device drivers and a set of C functions (API) for accessing Quanser hardware (devices and data acquisition cards).  
 
 The Quanser HIL SDK for the 32-bit Raspbian operating system running on a Raspberry Pi 3 provides access to the following devices:
